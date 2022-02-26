@@ -10,11 +10,11 @@ These notebooks can be easily forked or downloaded through zip format for person
 
 What things you need to install the software and how to install them
 
-```
+
 * Python 3.9 or later installed
 * Python 3 PIP installed -- https://pip.pypa.io/en/stable/installing
 % python3 -m pip --version
-```
+
 
 ### Installation
 
